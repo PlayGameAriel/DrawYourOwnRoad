@@ -18,9 +18,10 @@ Car-
 
 ![image](https://user-images.githubusercontent.com/30858011/100729896-07af2680-33d2-11eb-975b-dd349b388416.png)
 
-![image](https://user-images.githubusercontent.com/30858011/100729986-244b5e80-33d2-11eb-99b7-1d637454ad1f.png)
+תנועה נעשית על ידי החצים 
 
-תנועה נעשית על ידי החצים+מעבר לרמה הבאה
+מעבר לרמה הבאה
+![image](https://user-images.githubusercontent.com/30858011/100729986-244b5e80-33d2-11eb-99b7-1d637454ad1f.png)
 
 level one:
 
