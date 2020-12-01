@@ -6,6 +6,7 @@ https://irisravten.itch.io/car
 
 <div dir="rtl">
 משחק 9:
+ 
 Camera-
  
 המצלמה עוקבת אחרי "השחקן= מכונית". ככל שהוא מתקדם היא כל הזמן זזה איתו
