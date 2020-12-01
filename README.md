@@ -1,10 +1,12 @@
 # Car
 https://irisravten.itch.io/car
 
+The car game consists of two levels. The first level, the machine knocks down the cubes that easily fly apart. The level ends when the car reaches the finish line, where an automatic transition to the second level takes place. In the second level, the machine pushes the first cube and a domino effect occurs. Control the car with the forward arrow.
 
 ![car](https://user-images.githubusercontent.com/30858011/100728383-2b716d00-33d0-11eb-9c73-0a1358c03222.JPG)
 
 <div dir='rtl' lang='he'>
+ 
 משחק 9:
  
 Camera-
